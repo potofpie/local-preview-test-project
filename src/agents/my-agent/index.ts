@@ -26,7 +26,7 @@ export default async function Agent(
 	ctx: AgentContext,
 ) {
 	try {
-		return resp.text("Hello world from pr branch");
+		return resp.text("Hello world from pr branch. LIVE DEMO!");
 	} catch (error) {
 		return resp.text("Sorry, there was an error processing your request.");
 	}
