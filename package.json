@@ -28,7 +28,8 @@
   },
   "dependencies": {
     "@agentuity/sdk": "^0.0.133",
-    "openai": "^5.10.1"
+    "openai": "^5.10.1",
+    "source-map-js": "^1.2.1"
   },
   "module": "index.ts"
 }
