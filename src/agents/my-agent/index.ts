@@ -28,8 +28,6 @@ export default async function Agent(
 	try {
 		return resp.text("Hello world from PR branch");
 	} catch (error) {
-		ctx.logger.error("Error running agent:", error);
-
 		return resp.text("Sorry, there was an error processing your request.");
 	}
 }
