@@ -74,6 +74,8 @@ This command will bundle your agent and deploy it to the cloud, making it access
 └── agentuity.yaml      # Agentuity project configuration
 ```
 
+
+
 ## 🔧 Configuration
 
 Your project configuration is stored in `agentuity.yaml`. This file defines your agents, development settings, and deployment configuration.
