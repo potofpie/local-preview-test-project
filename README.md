@@ -7,7 +7,9 @@
         <a target="_blank" href="https://app.agentuity.com/deploy" alt="Agentuity">
             <img src="https://app.agentuity.com/img/deploy.svg" /> 
         </a>
-    <br />
+
+  
+  <br />
 
 
 
